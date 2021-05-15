@@ -1,6 +1,16 @@
 <template>
   <div class="card pizza">
-    <h1>Pizza</h1>
+    <h1>build a form entry for a pizza</h1>
+    <h3>rating topics</h3>
+    <li>how good</li>
+    <li>toppings</li>
+    <li>suace</li>
+    <li>crust</li>
+    <li>cheese</li>
+    <li>spicy</li>
+    <h4>
+      enter picture of the pizza
+    </h4>
   </div>
 </template>
 
