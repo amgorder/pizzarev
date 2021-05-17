@@ -11,6 +11,20 @@
     <h4>
       enter picture of the pizza
     </h4>
+    <form class="form card">
+      <div>
+        <label for="pizza">Pizza Name</label>
+        <input type="text">
+      </div>
+      <div>
+        <label for="toppings">Toppings</label>
+        <input type="text">
+      </div>
+      <div>
+        <label for="sauce">Sauce</label>
+        <input type="text">
+      </div>
+    </form>
   </div>
 </template>
 
