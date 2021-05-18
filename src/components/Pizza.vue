@@ -11,6 +11,8 @@
     <h4>
       enter picture of the pizza
     </h4>
+  </div>
+  <div>
     <form class="form card">
       <div>
         <label for="pizza">Pizza Name</label>
@@ -39,8 +41,8 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.pizza{
-height: 100em;
-width: 200em;
-}
+// .pizza{
+// height: 100;
+// width: 200em;
+// }
 </style>
